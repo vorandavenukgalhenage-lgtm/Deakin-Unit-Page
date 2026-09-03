@@ -1,3 +1,4 @@
+/* Team Leader final styling update */
 h1 {
   font-size: 40px;
   font-family: Arial
@@ -22,7 +23,8 @@ div {
   text-align: right;
 }
 
-th, td {
+th,
+td {
   padding: 8px;
   text-align: left;
   border-bottom: 1px solid #ddd;
